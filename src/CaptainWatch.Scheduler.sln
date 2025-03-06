@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptainWatch.Scheduler", "CaptainWatch.Scheduler\CaptainWatch.Scheduler.csproj", "{1092F3C9-BF21-4F77-B316-EBF5D7CCD013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1092F3C9-BF21-4F77-B316-EBF5D7CCD013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1092F3C9-BF21-4F77-B316-EBF5D7CCD013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1092F3C9-BF21-4F77-B316-EBF5D7CCD013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1092F3C9-BF21-4F77-B316-EBF5D7CCD013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E587076-CD0A-4857-83ED-4E2567ECD44D}
+	EndGlobalSection
+EndGlobal
