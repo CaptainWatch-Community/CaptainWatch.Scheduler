@@ -46,7 +46,7 @@ app.UseAuthorization();
 app.MapControllers();
 app.UseHangfireDashboard("/hangfire", new DashboardOptions
 {
-	DashboardTitle = "CaptainWatch.Scheduler",
+	DashboardTitle = "CaptainWatch.Scheduler (1.0.1)",
 });
 ConfigRecurringJobs.ConfigureJobs();
 app.Run();
